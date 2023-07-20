@@ -19,10 +19,6 @@ Je suis un passionné de l'automatisation et un DevOps spécialisé dans les env
 ### 🌱 Contributions open-source et Formations
 
 Je crois en l'importance de contribuer à la communauté open-source. Je donne aussi des formations afin d'acculturer les personnes au technologies tel que Docker, Kubernetes, Prometheus, ArgoCD.
-
-### 📈 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Alex-Beguier&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
-
 N'hésitez pas à me contacter pour discuter de projets passionnants, d'opportunités de collaboration ou simplement pour échanger sur les dernières technologies!
 
+Belle journée à vous !
