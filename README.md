@@ -18,7 +18,7 @@ Je suis un passionné de l'automatisation et un DevOps spécialisé dans les env
 
 ### 🌱 Contributions open-source et Formations
 
-Je crois en l'importance de contribuer à la communauté open-source. 
+Je crois en l'importance de contribuer à la communauté open-source. Je donne aussi des formations afin d'acculturer les personnes au technologies tel que Docker, Kubernetes, Prometheus, ArgoCD.
 
 ### 📈 Statistiques GitHub
 
