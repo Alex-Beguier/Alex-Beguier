@@ -2,12 +2,11 @@
 <p align="center">
   <a href="mailto:adresse@mail.com">📧 alex.beguier@gmail.com</a> •
   <a href="https://www.linkedin.com/in/alexandre-beguier-561a33aa/">LinkedIn</a> •
-  <a href="https://twitter.com/votre-profil-twitter">Twitter</a>
 </p>
 
 ---
 
-Je suis un passionné de l'automatisation et un développeur opérationnel (DevOps) expérimenté, spécialisé dans les environnements Kubernetes hybrides. Mon objectif est de concevoir des solutions informatiques évolutives et hautement performantes en utilisant les technologies les plus récentes.
+Je suis un passionné de l'automatisation et un DevOps spécialisé dans les environnements Kubernetes. Mon objectif est de fournir une plateforme afin d'eherbger des solutions informatiques évolutives et hautement performantes en utilisant les technologies les plus récentes.
 
 ### 🔧 Compétences techniques
 
