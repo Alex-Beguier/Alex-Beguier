@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! Je suis Alexandre BEGUIER]</h1>
+<h1 align="center">👋 Hello! Je suis Alexandre BEGUIER</h1>
 <p align="center">
   <a href="mailto:adresse@mail.com">📧 alex.beguier@gmail.com</a> •
   <a href="https://www.linkedin.com/in/alexandre-beguier-561a33aa/">LinkedIn</a> •
@@ -23,7 +23,7 @@ Je crois en l'importance de contribuer à la communauté open-source.
 
 ### 📈 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre-profil-github&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Alex-Beguier&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 N'hésitez pas à me contacter pour discuter de projets passionnants, d'opportunités de collaboration ou simplement pour échanger sur les dernières technologies!
 
