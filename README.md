@@ -6,7 +6,7 @@
 
 ---
 
-Je suis un passionné de l'automatisation et un DevOps spécialisé dans les environnements Kubernetes. Mon objectif est de fournir une plateforme afin d'eherbger des solutions informatiques évolutives et hautement performantes en utilisant les technologies les plus récentes.
+Je suis un passionné de l'automatisation et un DevOps spécialisé dans les environnements Kubernetes. Mon objectif est de fournir une plateforme afin d'héberger des solutions informatiques évolutives et hautement performantes en utilisant les technologies les plus récentes.
 
 ### 🔧 Compétences techniques
 
