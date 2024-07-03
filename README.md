@@ -6,19 +6,5 @@
 
 ---
 
-Je suis un passionné de l'automatisation et un DevOps spécialisé dans les environnements Kubernetes. Mon objectif est de fournir une plateforme afin d'héberger des solutions informatiques évolutives et hautement performantes en utilisant les technologies les plus récentes.
-
-### 🔧 Compétences techniques
-
-- **Kubernetes**: Configuration, déploiement et gestion d'applications conteneurisées à grande échelle sur des environnements hybrides.
-- **Terraform**: Infrastructure as Code (IaC) pour provisionner des ressources dans des environnements cloud hybrides.
-- **Argo CD**: Intégration continue et déploiement continu (CI/CD) pour un déploiement automatisé et sûr des applications sur Kubernetes.
-- **Vault**: Gestion sécurisée des secrets, clés et certificats pour renforcer la sécurité des applications et des infrastructures.
-- **Prometheus**: Surveillance et alerting de haute performance pour garantir la disponibilité et les performances des applications.
-
-### 🌱 Contributions open-source et Formations
-
-Je crois en l'importance de contribuer à la communauté open-source. Je donne aussi des formations afin d'acculturer les personnes au technologies tel que Docker, Kubernetes, Prometheus, ArgoCD.
-N'hésitez pas à me contacter pour discuter de projets passionnants, d'opportunités de collaboration ou simplement pour échanger sur les dernières technologies!
-
-Belle journée à vous !
+#### DevOps Stack 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
